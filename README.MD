@@ -1,4 +1,4 @@
-# Proyecto Final Analisis de Sistemas II
+# Proyecto Red Social Amibos
 ### Integrantes de Grupo
 
 - Marco Vinicio Ordonez Pérez       **1290-18-6334
